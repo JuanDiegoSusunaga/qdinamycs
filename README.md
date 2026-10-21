@@ -46,6 +46,13 @@ Todo el conocimiento, análisis y especificaciones técnicas se organizan en los
    * Liberación de capital atrapado en corresponsalía.
    * Integración con sistemas *Core Banking* tradicionales vía API/gRPC e ISO 20022.
 
+6. [**06. Recursos del Hackathon y Alineación con QDinamycs**](docs/06-hackathon-recursos-y-alineacion.md):
+   * Herramientas de patrocinadores: Zetaris (Data Mesh federado) y Meterless (Tarificación de gas y cómputo).
+   * Estrategia para el track *Wildcard [Tinkerer]: Bring Your Own Project*.
+
+7. [**RESOURCES.md — Directorio Central de Referencias y APIs**](RESOURCES.md):
+   * Enlaces directos a estándares NIST PQC (FIPS 203, 204, 205), normas ISO 20022, Discord y documentación.
+
 ---
 
 ## 🔬 Fundamentación Técnica (Herencia de la Tesis NEXUS)
